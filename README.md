@@ -30,3 +30,7 @@ I build production-quality ML systems and research-driven prototypes.
 **Modelling & Simulation**: MATLAB/Simulink, NVIDIA Isaac Sim, 20sim, COMSOL    
 **Agents:** LangChain, LangGraph, SQLite
 
+## Contact
+
+- 📧 Email: esabhapandit@gmail.com
+- 💼 LinkedIn: [Eshan Sabhapandit](https://www.linkedin.com/in/eshan-sabhapandit-3017021a1/)
