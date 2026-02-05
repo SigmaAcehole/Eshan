@@ -1,5 +1,5 @@
 # Hi, I'm Eshan!
-Research Engineer / ML Engineer / Robotics Engineer  
+Computer Vision Engineer / ML Engineer / Robotics Engineer  
 Specializing in computer vision, deep learning and autonomous robots.
 
 I develop AI-driven software for real-time and resource constraint applications.
