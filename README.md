@@ -16,7 +16,7 @@ I develop AI-driven software for real-time and resource constraint applications.
 |-------|------------|------|
 | [RELbot](https://github.com/SigmaAcehole/RELbot) | Real-time software for a ball chasing mobile robot | ROS2, PThread, RPi |
 | [3D LiDAR Detection](https://github.com/SigmaAcehole/LiDAR-Detection) |Computer vision algorithm to detect objects from LiDAR point cloud | ROS2, OpenCV, Open3D |
-| [Follow-me Bot](https://github.com/SigmaAcehole/Follow-me-bot) | AL algorithm to locate and track a person | PyTorch, YOLO |
+| [Follow-me Bot](https://github.com/SigmaAcehole/Follow-me-bot) | AI algorithm to locate and track a person | PyTorch, YOLO |
 | [Multi-Agent Data Analysis](https://github.com/SigmaAcehole/Autonomous-AI-Agents) | AI agents for data analysis and visualization | LangChain, SQLite |
 | [MonoTronic](https://github.com/SigmaAcehole/MonoTronic) | Embedded solution to automate car cabin CO & CO2 concentration | Embedded C, ATmega16M |
 
